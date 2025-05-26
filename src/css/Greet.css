@@ -1,0 +1,64 @@
+.greet main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+
+.left-content .grtp1 {
+  font-size: 2rem;
+}
+
+.left-content {
+  flex: 1;
+}
+
+.img-main {
+  flex-shrink: 0;
+}
+
+.img-main .img1 {
+  margin-left: 2rem;
+  max-width: 750px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.logo-main {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  position: relative;
+}
+
+.info-main {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.span-1 {
+    color: rgb(230, 15, 133);
+}
+
+.back-img {
+  position: absolute;
+  top: 18%;
+  left: 54%;
+  z-index: -1;
+  min-width: 315px;
+  height: 200px;
+}
+
+.back-img2 {
+  position: absolute;
+  top: 43%;
+  width: 75px;
+}
+
+.back-img3 {
+  position: absolute;
+  top: 43%;
+  left: 73%;
+  bottom: 90%;
+  width: 85px;
+}

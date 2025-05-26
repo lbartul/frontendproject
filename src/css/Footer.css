@@ -1,0 +1,55 @@
+.last-part {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+  /* background colour sildim*/
+  gap: 2rem;
+}
+
+.footer-left h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.footer-left {
+  padding-top: 0.5rem;
+  position: relative;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footer-right a {
+  text-decoration: none;
+  color: blue;
+  font-weight: 500;
+}
+
+#n1 {
+  color: rgb(27, 113, 226);
+}
+
+#n2 {
+  color: black;
+}
+
+#n3 {
+  color: rgb(49, 116, 136)
+}
+
+#n4 {
+  color: rgb(114, 25, 25)
+}
+
+.footer-bimg {
+  position: absolute;
+  opacity: 0.7;
+  top: 80%;
+  width: 200px;
+  left: 25%;
+}
