@@ -88,7 +88,7 @@ body.dark .footer-left h2 {
     margin-left: 0;
   }
 
-
+ 
 }
 
 
@@ -98,7 +98,7 @@ body.dark .footer-left h2 {
     max-height: 50px;
   }
 
-  
+
 }
 
 
@@ -113,7 +113,9 @@ body.dark .footer-left h2 {
     max-width: 100%;
   }
 
- 
+  .p-bimg {
+    display: none;
+  }
 }
 
 
@@ -148,6 +150,8 @@ body.dark .footer-left h2 {
     text-align: center;
   }
 
-  
+  .footer-bimg {
+    display: none;
+  }
 }
 
