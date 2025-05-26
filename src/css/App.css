@@ -154,6 +154,8 @@ body.dark .footer-left h2 {
     align-items: flex-start;
   }
 
-  
+  .footer-left .footer-bimg {
+    display: none;
+  }
 }
 
