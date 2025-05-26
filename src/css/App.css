@@ -70,7 +70,7 @@ body.dark .footer-left h2 {
 
 @media (max-width: 700px) {
   .preference nav {
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-end;
   }
 }
@@ -119,9 +119,7 @@ body.dark .footer-left h2 {
     max-width: 100%;
   }
 
-  .p-bimg {
-    display: none;
-  }
+  
 }
 
 
@@ -151,9 +149,9 @@ body.dark .footer-left h2 {
 
 @media (max-width: 700px) {
   .last-part {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+    flex-direction: row;
+    align-items: flex-start;
+    align-items: flex-start;
   }
 
   
