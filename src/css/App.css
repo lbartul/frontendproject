@@ -88,10 +88,7 @@ body.dark .footer-left h2 {
     margin-left: 0;
   }
 
-  .back-img,
-  .back-img2 {
-    display: none;
-  }
+
 }
 
 
@@ -101,10 +98,7 @@ body.dark .footer-left h2 {
     max-height: 50px;
   }
 
-  .skills-bimg,
-  .skills-bimg2 {
-    display: none;
-  }
+  
 }
 
 
@@ -119,9 +113,7 @@ body.dark .footer-left h2 {
     max-width: 100%;
   }
 
-  .p-bimg {
-    display: none;
-  }
+ 
 }
 
 
@@ -156,8 +148,6 @@ body.dark .footer-left h2 {
     text-align: center;
   }
 
-  .footer-bimg {
-    display: none;
-  }
+  
 }
 
